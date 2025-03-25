@@ -13,12 +13,6 @@ A web-based tool that converts **Python code** into **high-performance C++** usi
 
 ---
 
-## 📸 Demo
-
-> Coming soon...
-
----
-
 ## 🧠 Technologies Used
 
 - [Gradio](https://gradio.app/)
