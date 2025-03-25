@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange.svg)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
-![Static Badge](https://img.shields.io/badge/Claude3.5.svg)
 
 
 
