@@ -40,3 +40,24 @@ ANTHROPIC_API_KEY=your_claude_api_key
 ### 3. Run the App
 python3 main.py
 
+
+2. Install Dependencies
+
+We recommend using a virtual environment:
+
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+3. Create a .env File and Add API Keys
+
+In the root directory, create a .env file and include the following lines with your actual API keys:
+
+OPENAI_API_KEY=your_openai_api_key
+ANTHROPIC_API_KEY=your_claude_api_key
+
+4. Run the App
+
+python3 main.py
+
+
