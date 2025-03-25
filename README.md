@@ -23,23 +23,38 @@ A web-based tool that converts **Python code** into **high-performance C++** usi
 
 ---
 
-## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
+```markdown
+# 🛠️ Setup Instructions
+
+## 1. Clone the Repository
+
+Run the following commands in your terminal:
 
 ```bash
 git clone https://github.com/frezazadeh/LLM-based-Python-to-Cpp.git
 cd python-to-cpp-ai
 pip install -r requirements.txt
----
-```bash
-### 2. Create a .env file and add API keys
+```
+
+## 2. Create a .env File and Add API Keys
+
+Create a file named `.env` in the project root and add the following content:
+
+```env
 OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_claude_api_key
----
+```
+
+## 3. Run the App
+
+Run the application with:
+
 ```bash
-### 3. Run the App
 python3 main.py
+```
+```
+
 
 
 
