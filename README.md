@@ -1,3 +1,11 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange.svg)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
+![Static Badge](https://img.shields.io/badge/Claude3.5?style=flat)
+
+
+
 # ⚡ Python to C++ High-Performance Code Converter
 
 A web-based tool that converts **Python code** into **high-performance C++** using LLMs (GPT-4o / Claude 3.5). It also lets you **run and compare outputs** of both Python and the optimized C++ implementation.
