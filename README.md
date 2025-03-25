@@ -31,10 +31,12 @@ A web-based tool that converts **Python code** into **high-performance C++** usi
 git clone https://github.com/frezazadeh/LLM-based-Python-to-Cpp.git
 cd python-to-cpp-ai
 
+```bash
 ### 2. Create a .env file and add API keys
 OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_claude_api_key
 
+```bash
 ### 3. Run the App
 python3 main.py
 
