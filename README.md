@@ -24,7 +24,6 @@ A web-based tool that converts **Python code** into **high-performance C++** usi
 ---
 
 # 🛠️ Setup Instructions
-```markdown
 
 ## 1. Clone the Repository
 
@@ -52,7 +51,7 @@ Run the application with:
 ```bash
 python3 main.py
 ```
-```
+
 
 
 
