@@ -28,7 +28,7 @@ A web-based tool that converts **Python code** into **high-performance C++** usi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/frezazadeh/python-to-cpp-ai.git
+git clone https://github.com/frezazadeh/LLM-based-Python-to-Cpp.git
 cd python-to-cpp-ai
 python3 main.py
 
